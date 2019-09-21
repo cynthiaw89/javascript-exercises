@@ -9,7 +9,7 @@ const sumAll = function(x,y) {
     else if (x < y) {
       sum = x;
         while (x < y) {
-            //while x is smaller than y, add 1, and add it to sum
+            //while x is smaller than y, add 1, and  add it to sum
           x++;
           sum += x;
         }
